@@ -1,0 +1,35 @@
+body{
+  margin: auto;
+}
+
+.navbar-brand {
+  height: auto;
+  padding: 5px 15px 5px 5px;
+}
+.navbar-default{
+  border-top: solid 4px green;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+.navbar__logo {
+  height: 50px;
+  min-height: auto;
+}
+.feature-1{
+  background: url(../images/banner1.jpg) no-repeat center / cover transparent;
+  margin-bottom: 5px;
+  text-align: center;
+  padding: 40px 0;
+}
+.caluga{
+  background-color: rgba(0,0,0,.5);
+  padding: 5%;
+  max-width: 500px;
+  border-radius: 5%;
+  margin: 0 auto;
+}
+.caluga__title{
+  text-transform: uppercase;
+  color: silver;
+  text-align: center;
+}

@@ -1,0 +1,55 @@
+header {
+  background-image: url(../images/bg.jpeg);
+  height: 100%;
+  margin-top: 0;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 10px 50px;
+
+
+}
+h6{
+}
+h1{
+  text-transform: uppercase;
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+.container-header {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+.container-div1 img {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+.jumbotron{
+  text-align: center;
+}
+
+.navbar-default {
+  margin-top: 0;
+  background-color: transparent;
+  border: 0;
+}
+.logo{
+  float: left;
+  max-height: 35px;
+}
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+.nav-pills {
+  text-align:center;
+}
+.navbar-btn{
+  text-transform:uppercase
+}
